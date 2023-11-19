@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  - 😄: I'm actually an Informatic Engineering student.
+  - 🌱: I'm currently learning and imrpoving my Python skills
+  - 📫 How to reach me: davidelorzag@gmail.com
+
 <!--
 **davyyelor/davyyelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
