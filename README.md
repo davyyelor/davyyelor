@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   - 😄: I'm actually an Informatic Engineering student.
-  - 🌱: I'm currently learning and imrpoving my Python skills
+  - 🌱: I'm currently learning and improving my Python skills
   - 📫 How to reach me: davidelorzag@gmail.com
 
 <!--
